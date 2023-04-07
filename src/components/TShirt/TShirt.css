@@ -1,0 +1,28 @@
+.tshirt-container {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 3px solid orange;
+  background-color: cadetblue;
+  text-align: center;
+}
+.tshirt-container img {
+  height: 400px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.buy-now-btn {
+  padding: 10px 25px;
+  border-radius: 8px;
+  border: 2px solid rgb(222, 203, 196);
+  background-color: rgb(214, 65, 65);
+  font-size: medium;
+  color: bisque;
+}
+.buy-now-btn:hover {
+  border: 2px solid orangered;
+  background-color: darkcyan;
+  transition-duration: 300;
+  color: rgb(238, 193, 193);
+}
