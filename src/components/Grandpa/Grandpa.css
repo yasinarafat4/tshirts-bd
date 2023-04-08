@@ -1,0 +1,11 @@
+.container,
+.container div {
+  border: 2px solid goldenrod;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}

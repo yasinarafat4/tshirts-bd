@@ -19,6 +19,7 @@
   background-color: rgb(214, 65, 65);
   font-size: medium;
   color: bisque;
+  transition: 0.3s;
 }
 .buy-now-btn:hover {
   border: 2px solid orangered;

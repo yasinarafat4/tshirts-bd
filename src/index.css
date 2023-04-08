@@ -1,0 +1,13 @@
+.btn {
+  padding: 10px;
+  background-color: coral;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  border: 2px solid gray;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: blueviolet;
+  color: blanchedalmond;
+}
